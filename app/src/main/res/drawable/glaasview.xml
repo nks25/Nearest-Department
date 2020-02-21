@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <size android:height="150dp" android:width="150dp"/>
+    <gradient
+        android:angle="90"
+        android:endColor="#65C5FAF2"
+        android:startColor="#6300FFE9"
+        android:type="linear" />
+    <corners android:topLeftRadius="0dp"
+        android:bottomLeftRadius="0dp"/>
+</shape>
+// we created this to use in the app as an background or view
